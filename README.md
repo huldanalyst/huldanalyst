@@ -4,7 +4,8 @@
 # About Me
 As a dedicated Data Analyst with extensive experience in leveraging data to drive business insights, I am proficient in MS Excel and SQL, including hands-on experience with MySQL and PostgreSQL. My analytical skills enable me to interpret complex datasets and create meaningful reports that support decision-making processes. I thrive in collaborative environments, utilizing my strong problem-solving abilities to optimize data workflows and enhance data-driven strategies. I am passionate about transforming raw data into actionable insights that contribute to organizational success. 
 
-
+# Professional Training
+🤣
 
 <!--
 **huldanalyst/huldanalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
