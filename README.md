@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Huldah
+## Huldah Akporherhe
 > Data Analyst | Microsoft Excel | MySQL | PostgreSQL
 
 # About Me
