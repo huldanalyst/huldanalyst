@@ -5,7 +5,7 @@
 As a dedicated Data Analyst with extensive experience in leveraging data to drive business insights, I am proficient in MS Excel and SQL, including hands-on experience with MySQL and PostgreSQL. My analytical skills enable me to interpret complex datasets and create meaningful reports that support decision-making processes. I thrive in collaborative environments, utilizing my strong problem-solving abilities to optimize data workflows and enhance data-driven strategies. I am passionate about transforming raw data into actionable insights that contribute to organizational success. 
 
 ## Professional Training
-### Data Analytics - DataCamp (Oct - Dec 2024)
+#### Data Analytics - DataCamp (Oct - Dec 2024)
 > ###### Tools learned: Microsoft Excel, PostgreSQL
 
 I completed a structured Data Analytics training program on DataCamp, covering key topics such as data preparation, data manipulation, statistical analysis, function application, queries and subqueries, and various types of joins—primarily using Microsoft Excel and PostgreSQL. These hands-on courses emphasized practical application through interactive exercises.
