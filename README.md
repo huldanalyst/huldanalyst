@@ -6,6 +6,7 @@ As a dedicated Data Analyst with extensive experience in leveraging data to driv
 
 # Professional Training
 > Data Analytics - DataCamp (Oct - Dec 2024)
+
 I completed a structured Data Analytics training program on DataCamp, covering key topics such as data preparation, data manipulation, statistical analysis, function application, queries and subqueries, and various types of joins—primarily using Microsoft Excel and PostgreSQL. These hands-on courses emphasized practical application through interactive exercises.
 [View my learning progress and completed coursework](https://github.com/huldanalyst/Images/commit/efc07b15fe366bab5c21d6338220f8107ea4b40a)
 
