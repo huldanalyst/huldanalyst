@@ -5,8 +5,26 @@
 As a dedicated Data Analyst with extensive experience in leveraging data to drive business insights, I am proficient in MS Excel and SQL, including hands-on experience with MySQL and PostgreSQL. My analytical skills enable me to interpret complex datasets and create meaningful reports that support decision-making processes. I thrive in collaborative environments, utilizing my strong problem-solving abilities to optimize data workflows and enhance data-driven strategies. I am passionate about transforming raw data into actionable insights that contribute to organizational success. 
 
 ## Skills
-- #### Data Analytics and Visualization
-  * hbdh
+- #### Data Analytics and Visualization:
+  - Microsoft Excel (PivotTables, Charts, Power Query, Form Controls, Power Pivot)
+  - SQL (MySQL, PostgreSQL)
+- #### Productivity and Communication Tools:
+  - Microsoft Word 
+  - PowerPoint
+  - Canva
+- #### Basic Statistical Knowledge
+ - Mean
+ - Median
+ - Mode
+- #### Soft Skills
+ - Critical Thinking
+ - Spoken and Written Communication
+ - Attention to Detail
+ - Problem-Solving
+ - Adaptability
+ - Team Collaboration
+ - Resilience
+ - Time Management
 
 ## Professional Training
 #### Data Analytics - DataCamp (Oct - Dec 2024)
