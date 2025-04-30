@@ -12,7 +12,7 @@ I completed a structured Data Analytics training program on DataCamp, covering k
 
 View my learning progress [here](https://github.com/huldanalyst/Images/commit/efc07b15fe366bab5c21d6338220f8107ea4b40a)
 
-#### Data Analytics - The Data Immersed Community (Jan 2025 _- present_)
+#### Data Analytics - The Data Immersed Community (Jan 2025 _- Present_)
 > ###### Technologies: Microsoft Excel, MySQL
 
 I have been actively involved in The Data Immersed Community, a collaborative learning initiative focused on developing real-world data skills. The training began with in-depth work in Microsoft Excel, where I strengthened my understanding of formulas, conditional functions, lookup functions (_such as_; VLOOKUP, HLOOKUP, INEX-MATCH), pivot tables, data cleaning techniques, and basic dashboards. We then transitioned to SQL, where I built competence in writing complex queries, using subqueries, applying different types of joins, and optimizing data retrieval. Throughout the program, I have applied these skills to mini-projects and exercises, further reinforcing my ability to solve practical data problems.
