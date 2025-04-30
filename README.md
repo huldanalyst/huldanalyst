@@ -5,7 +5,9 @@
 As a dedicated Data Analyst with extensive experience in leveraging data to drive business insights, I am proficient in MS Excel and SQL, including hands-on experience with MySQL and PostgreSQL. My analytical skills enable me to interpret complex datasets and create meaningful reports that support decision-making processes. I thrive in collaborative environments, utilizing my strong problem-solving abilities to optimize data workflows and enhance data-driven strategies. I am passionate about transforming raw data into actionable insights that contribute to organizational success. 
 
 # Professional Training
-[DataCamp Lrearnings](https://github.com/huldanalyst/Images/commit/efc07b15fe366bab5c21d6338220f8107ea4b40a)
+> Data Analytics - DataCamp (Oct - Dec 2024)
+I completed a structured Data Analytics training program on DataCamp, covering key topics such as data preparation, data manipulation, statistical analysis, function application, queries and subqueries, and various types of joins—primarily using Microsoft Excel and PostgreSQL. These hands-on courses emphasized practical application through interactive exercises.
+[View my learning progress and completed coursework](https://github.com/huldanalyst/Images/commit/efc07b15fe366bab5c21d6338220f8107ea4b40a)
 
 <!--
 **huldanalyst/huldanalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
