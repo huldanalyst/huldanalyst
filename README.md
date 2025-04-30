@@ -17,14 +17,14 @@ As a dedicated Data Analyst with extensive experience in leveraging data to driv
   - Median
   - Mode
 - #### Soft Skills
- - Critical Thinking
- - Spoken and Written Communication
- - Attention to Detail
- - Problem-Solving
- - Adaptability
- - Team Collaboration
- - Resilience
- - Time Management
+  - Critical Thinking
+  - Spoken and Written Communication
+  - Attention to Detail
+  - Problem-Solving
+  - Adaptability
+  - Team Collaboration
+  - Resilience
+  - Time Management
 
 ## Professional Training
 #### Data Analytics - DataCamp (Oct - Dec 2024)
