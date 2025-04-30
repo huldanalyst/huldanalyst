@@ -12,10 +12,10 @@ As a dedicated Data Analyst with extensive experience in leveraging data to driv
   - Microsoft Word 
   - PowerPoint
   - Canva
-- #### Basic Statistical Knowledge
- - Mean
- - Median
- - Mode
+- #### Basic Statistical Knowledge:
+  - Mean
+  - Median
+  - Mode
 - #### Soft Skills
  - Critical Thinking
  - Spoken and Written Communication
