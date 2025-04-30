@@ -6,7 +6,7 @@ As a dedicated Data Analyst with extensive experience in leveraging data to driv
 
 ## Skills
 - #### Data Analytics and Visualization
-       -hbdh
+  -hbdh
 
 ## Professional Training
 #### Data Analytics - DataCamp (Oct - Dec 2024)
