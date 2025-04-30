@@ -9,7 +9,7 @@ As a dedicated Data Analyst with extensive experience in leveraging data to driv
 
 I completed a structured Data Analytics training program on DataCamp, covering key topics such as data preparation, data manipulation, statistical analysis, function application, queries and subqueries, and various types of joins—primarily using Microsoft Excel and PostgreSQL. These hands-on courses emphasized practical application through interactive exercises.
 
-View my learning progress and completed coursework [here](https://github.com/huldanalyst/Images/commit/efc07b15fe366bab5c21d6338220f8107ea4b40a)
+View my learning progress [here](https://github.com/huldanalyst/Images/commit/efc07b15fe366bab5c21d6338220f8107ea4b40a)
 
 <!--
 **huldanalyst/huldanalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
