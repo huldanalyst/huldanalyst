@@ -81,7 +81,7 @@ I have been actively involved in The Data Immersed Community, a collaborative le
 ## Data Analytics Projects :card_file_box:	
 View all Data Analytics projects [here](https://github.com/huldanalyst/Data-Analytics-Projects/blob/main/README.md#data-analytics-projects)
 
-## Connect with Me :handshake:
+## Connect with Me :mailbox:
 :link: [LinkedIn](http://linkedin.com/in/huldah-akporherhe)
 
 :email: [E-Mail](mailto:akporherhehuldah@gmail.com)
