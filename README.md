@@ -66,8 +66,7 @@ As an emerging Data Analyst with hands-on training in leveraging data to drive b
   - Time Management
  
 ## Data Analytics Projects :card_file_box:	
-[Microsoft Excel and MySQL:](https://github.com/huldanalyst/Data-Analytics-Projects/blob/main/README.md#data-analytics-projects) Explore a collection of projects where I utilized
-Microsoft Excel and MySQL to analyze data, create insightful reports, and drive business decisions. 
+[Microsoft Excel and MySQL:](https://github.com/huldanalyst/Data-Analytics-Projects/blob/main/README.md#microsoft-excel-and-mysql-projects-bar_chartfile_cabinet) Explore a collection of projects where I used Microsoft Excel and MySQL for data analytics and reporting.  
 
 ## Professional Training :books::pen:
 #### Data Analytics - DataCamp (Oct - Dec 2024)
