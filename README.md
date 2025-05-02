@@ -14,11 +14,19 @@
 </div>
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](http://linkedin.com/in/huldah-akporherhe)
 
-[![LinkedIn](https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png)](http://linkedin.com/in/huldah-akporherhe)
-[![Medium](https://img.icons8.com/ios-filled/30/000000/medium-monogram.png)](https://medium.com/@akporherhehuldah)
-[![Gmail](https://img.icons8.com/ios-filled/30/EA4335/gmail.png)](mailto:akporherhehuldah@gmail.com)
+<div align="left">
+  <a href="mailto:akporherhehuldah@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="20" alt="gmail logo"  />
+  </a>
+  <a href="http://linkedin.com/in/huldah-akporherhe" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="20" alt="linkedin logo"  />
+  </a>
+  <a href="https://medium.com/@akporherhehuldah" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="30" height="20" alt="medium logo"  />
+  </a>
+</div>
+
 
 
 
