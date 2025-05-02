@@ -51,10 +51,6 @@ As an emerging Data Analyst with hands-on training in leveraging data to drive b
   - Microsoft Word 
   - PowerPoint
   - Canva
-- #### Basic Statistical Knowledge
-  - Mean
-  - Median
-  - Mode
 - #### Soft Skills
   - Critical Thinking
   - Spoken and Written Communication
@@ -66,7 +62,7 @@ As an emerging Data Analyst with hands-on training in leveraging data to drive b
   - Time Management
  
 ## Data Analytics Projects :card_file_box:	
-[Microsoft Excel and MySQL:](https://github.com/huldanalyst/Data-Analytics-Projects/blob/main/README.md#microsoft-excel-and-mysql-projects-bar_chartfile_cabinet) Explore a collection of projects where I used Microsoft Excel and MySQL for data analytics and reporting.  
+[Microsoft Excel and MySQL:](https://github.com/huldanalyst/Data-Analytics-Projects/blob/main/README.md#microsoft-excel-and-mysql-projects-bar_chartfile_cabinet) Explore a collection of projects where I utilized Microsoft Excel and MySQL for data analytics and reporting.  
 
 ## Professional Training :books::pen:
 #### Data Analytics - DataCamp (Oct - Dec 2024)
