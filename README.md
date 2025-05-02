@@ -29,6 +29,21 @@
 
 
 
+<div align="left">
+  <a href="mailto:akporherhehuldah@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
+  </a>
+  <a href="http://linkedin.com/in/huldah-akporherhe" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
+  </a>
+  <a href="https://medium.com/@akporherhehuldah" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="medium logo"  />
+  </a>
+</div>
+
+
+
+
 
 ## About Me
 As a dedicated Data Analyst with extensive experience in leveraging data to drive business insights, I am proficient in MS Excel and SQL, including hands-on experience with MySQL and PostgreSQL. My analytical skills enable me to interpret complex datasets and create meaningful reports that support decision-making processes. I thrive in collaborative environments, utilizing my strong problem-solving abilities to optimize data workflows and enhance data-driven strategies. I am passionate about transforming raw data into actionable insights that contribute to organizational success. 
