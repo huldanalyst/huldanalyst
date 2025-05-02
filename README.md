@@ -53,6 +53,8 @@
     <img src="https://img.shields.io/static/v1?message=Follow&logo=medium&label=Medium&color=0D1117&logoColor=white&labelColor=12100E&style=flat" height="26" alt="medium logo"  />
   </a>
 
+[![Gmail](https://img.icons8.com/ios-filled/30/EA4335/gmail.png)](mailto:akporherhehuldah@gmail.com)
+
 
 
 ## About Me
