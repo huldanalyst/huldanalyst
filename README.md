@@ -1,33 +1,23 @@
 # Huldah Akporherhe
 #### Data Analyst | Microsoft Excel | MySQL | PostgreSQL
 
-<div align="left">
-  <a href="mailto:akporherhehuldah@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Contact%20Me&logo=gmail&label=Gmail&color=0D1117&logoColor=white&labelColor=D14836&style=flat" height="26" alt="gmail logo"  />
-  </a>
-  <a href="http://linkedin.com/in/huldah-akporherhe" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=LinkedIn&color=0D1117&logoColor=white&labelColor=0077B5&style=flat" height="26" alt="linkedin logo"  />
-  </a>
-  <a href="https://medium.com/@akporherhehuldah" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Follow&logo=medium&label=Medium&color=0D1117&logoColor=white&labelColor=12100E&style=flat" height="26" alt="medium logo"  />
-  </a>
-</div>
-
-
+###
 
 <div align="left">
   <a href="mailto:akporherhehuldah@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="26" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=Gmail&color=202020&logoColor=white&labelColor=D14836&style=for-the-badge" height="20" alt="gmail logo"  />
   </a>
   <a href="http://linkedin.com/in/huldah-akporherhe" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="26" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=LinkedIn&color=202020&logoColor=white&labelColor=0077B5&style=for-the-badge" height="20" alt="linkedin logo"  />
   </a>
   <a href="https://medium.com/@akporherhehuldah" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="30" height="26" alt="medium logo"  />
+    <img src="https://img.shields.io/static/v1?message=Follow&logo=medium&label=Medium&color=202020&logoColor=white&labelColor=12100E&style=for-the-badge" height="20" alt="medium logo"  />
   </a>
 </div>
 
+###
 
+<!--
 
 <div align="left">
   <a href="mailto:akporherhehuldah@gmail.com" target="_blank">
@@ -40,36 +30,11 @@
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="medium logo"  />
   </a>
 </div>
-
-
-
-  <a href="mailto:akporherhehuldah@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Contact%20Me&logo=gmail&label=Gmail&color=0D1117&logoColor=white&labelColor=D14836&style=flat" height="26" alt="gmail logo"  />
-  </a>
-  <a href="http://linkedin.com/in/huldah-akporherhe" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=LinkedIn&color=0D1117&logoColor=white&labelColor=0077B5&style=flat" height="26" alt="linkedin logo"  />
-  </a>
-  <a href="https://medium.com/@akporherhehuldah" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Follow&logo=medium&label=Medium&color=0D1117&logoColor=white&labelColor=12100E&style=flat" height="26" alt="medium logo"  />
-  </a>
-
-[![Gmail](https://img.icons8.com/ios-filled/30/EA4335/gmail.png)](mailto:akporherhehuldah@gmail.com)
+-->
 
 
 
 
-
-<div align="left">
-  <a href="mailto:akporherhehuldah@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=Gmail&color=202020&logoColor=white&labelColor=D14836&style=for-the-badge" height="26" alt="gmail logo"  />
-  </a>
-  <a href="http://linkedin.com/in/huldah-akporherhe" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=LinkedIn&color=202020&logoColor=white&labelColor=0077B5&style=for-the-badge" height="26" alt="linkedin logo"  />
-  </a>
-  <a href="https://medium.com/@akporherhehuldah" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Follow&logo=medium&label=Medium&color=202020&logoColor=white&labelColor=12100E&style=for-the-badge" height="26" alt="medium logo"  />
-  </a>
-</div>
 
 
 
