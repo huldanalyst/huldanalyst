@@ -65,7 +65,7 @@ As a dedicated Data Analyst with extensive experience in leveraging data to driv
   - Resilience
   - Time Management
 
-## Professional Training :books: :pen:
+## Professional Training :books::pen:
 #### Data Analytics - DataCamp (Oct - Dec 2024)
 > ###### Technologies: Microsoft Excel, PostgreSQL
 
