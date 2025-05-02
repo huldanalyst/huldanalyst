@@ -1,4 +1,4 @@
-# Huldah Akporherhe
+# Hi there! :raising_hand: I'm Huldah
 #### Data Analyst | Microsoft Excel | MySQL | PostgreSQL
 <div align="left">
   <a href="mailto:akporherhehuldah@gmail.com" target="_blank">
