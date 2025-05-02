@@ -42,7 +42,7 @@
 </div>
 
 
-<div align="left">
+
   <a href="mailto:akporherhehuldah@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Contact%20Me&logo=gmail&label=Gmail&color=0D1117&logoColor=white&labelColor=D14836&style=flat" height="26" alt="gmail logo"  />
   </a>
