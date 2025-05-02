@@ -1,7 +1,7 @@
 # Hey there! :wave: I'm Huldah
 #### Data Analyst | Microsoft Excel | MySQL | PostgreSQL
 <div align="left">
-  <a href="mailto:akporherhehuldah@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=akporherhehuldah@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=Gmail&color=202020&logoColor=white&labelColor=D14836&style=for-the-badge" height="20" alt="gmail logo"  />
   </a>
   <a href="http://linkedin.com/in/huldah-akporherhe" target="_blank">
@@ -80,9 +80,9 @@ I have been actively involved in The Data Immersed Community, a collaborative le
 ## Connect with Me :mailbox:
 :link: [LinkedIn](http://linkedin.com/in/huldah-akporherhe)
 
-:email: [E-Mail](mailto:akporherhehuldah@gmail.com)
+:email: [E-Mail](https://mail.google.com/mail/?view=cm&fs=1&to=akporherhehuldah@gmail.com)
 
-[E-Mail](https://mail.google.com/mail/?view=cm&fs=1&to=akporherhehuldah@gmail.com)
+<!-- [E-Mail](mailto:akporherhehuldah@gmail.com) -->
 ______
 > [!IMPORTANT]  
 > **Thank you for visiting my profile,**  
