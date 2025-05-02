@@ -1,5 +1,5 @@
 # Huldah Akporherhe
-#### Data Analyst | Microsoft Excel | MySQL | PostgreSQL
+> #### Data Analyst | Microsoft Excel | MySQL | PostgreSQL
 > <div align="left">
 >  <a href="mailto:akporherhehuldah@gmail.com" target="_blank">
 >    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=Gmail&color=202020&logoColor=white&labelColor=D14836&style=for-the-badge" height="20" alt="gmail logo"  />
