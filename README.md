@@ -43,9 +43,6 @@ _____
 ## About Me :woman_technologist:
 As an emerging Data Analyst with hands-on training in leveraging data to drive business insights, I am proficient in MS Excel and SQL, with practical experience in MySQL and PostgreSQL. My analytical skills enable me to interpret complex datasets and create meaningful reports that support decision-making processes. I thrive in collaborative environments, utilizing strong problem-solving abilities to optimize data workflows and enhance data-driven strategies. Dedicated to continuous learning, I embrace new challenges and am passionate about transforming raw data into actionable insights that contribute to organizational success.
 
-## Data Analytics Projects :card_file_box:	
-View all Data Analytics projects [here](https://github.com/huldanalyst/Data-Analytics-Projects/blob/main/README.md#data-analytics-projects)
-
 ## Skills :computer:
 - #### Data Analytics and Visualization
   - Microsoft Excel (PivotTables, Charts, Power Query, Form Controls, Power Pivot)
@@ -67,6 +64,9 @@ View all Data Analytics projects [here](https://github.com/huldanalyst/Data-Anal
   - Team Collaboration
   - Resilience
   - Time Management
+ 
+## Data Analytics Projects :card_file_box:	
+View all Data Analytics projects [here](https://github.com/huldanalyst/Data-Analytics-Projects/blob/main/README.md#data-analytics-projects)
 
 ## Professional Training :books::pen:
 #### Data Analytics - DataCamp (Oct - Dec 2024)
