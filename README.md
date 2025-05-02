@@ -85,10 +85,10 @@ View all Data Analytics projects [here](https://github.com/huldanalyst/Data-Anal
 :link: [LinkedIn](http://linkedin.com/in/huldah-akporherhe)
 
 :email: [E-Mail](mailto:akporherhehuldah@gmail.com)
-
+______
 > [!IMPORTANT]  
-> _Thank you for visiting my profile._
->_I'm passionate about data analytics and open to connecting with professionals and recruiters. If you're exploring potential collaborations or opportunities, I'm happy to connect and discuss how I can contribute._
+> **Thank you for visiting my profile.**
+> **I'm passionate about data analytics and open to connecting with professionals and recruiters. If you're exploring potential collaborations or opportunities, I'm happy to connect and discuss how I can contribute.**
 
 
 
