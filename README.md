@@ -86,9 +86,7 @@ View all Data Analytics projects [here](https://github.com/huldanalyst/Data-Anal
 
 :email: [E-Mail](mailto:akporherhehuldah@gmail.com)
 
-Thank you for visiting my profile.
-
-I’m passionate about data analytics and open to connecting with professionals and recruiters. If you’re interested in discussing insights, projects, or opportunities, feel free to reach out.
+Thank you for visiting my profile. I’m passionate about data analytics and open to connecting with professionals and recruiters. If you’re interested in discussing insights, projects, or opportunities, feel free to reach out.
 
 <!--
 **huldanalyst/huldanalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
