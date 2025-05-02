@@ -61,7 +61,7 @@
 
 <div align="left">
   <a href="mailto:akporherhehuldah@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=Gmail&color=202020&logoColor=white&labelColor=D14836&style=for-the-badge" height="20" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=Gmail&color=202020&logoColor=white&labelColor=D14836&style=for-the-badge" height="26" alt="gmail logo"  />
   </a>
   <a href="http://linkedin.com/in/huldah-akporherhe" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=LinkedIn&color=202020&logoColor=white&labelColor=0077B5&style=for-the-badge" height="20" alt="linkedin logo"  />
