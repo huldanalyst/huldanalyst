@@ -16,6 +16,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](http://linkedin.com/in/huldah-akporherhe)
 
+[![LinkedIn](https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png)](http://linkedin.com/in/huldah-akporherhe)
+[![Medium](https://img.icons8.com/ios-filled/30/000000/medium-monogram.png)](https://medium.com/@akporherhehuldah)
+[![Gmail](https://img.icons8.com/ios-filled/30/EA4335/gmail.png)](mailto:akporherhehuldah@gmail.com)
+
+
+
 ## About Me
 As a dedicated Data Analyst with extensive experience in leveraging data to drive business insights, I am proficient in MS Excel and SQL, including hands-on experience with MySQL and PostgreSQL. My analytical skills enable me to interpret complex datasets and create meaningful reports that support decision-making processes. I thrive in collaborative environments, utilizing my strong problem-solving abilities to optimize data workflows and enhance data-driven strategies. I am passionate about transforming raw data into actionable insights that contribute to organizational success. 
 
