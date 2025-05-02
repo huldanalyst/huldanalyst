@@ -89,7 +89,7 @@ ______
 > [!IMPORTANT]  
 > **Thank you for visiting my profile,**  
 >
-> I'm passionate about data analytics and open to connecting with professionals and recruiters. If you're exploring potential collaborations or opportunities, I'm happy to connect and discuss how I can contribute.
+> I'm passionate about data analytics and I'm open to connecting with professionals and recruiters. If you're exploring potential collaborations or opportunities, I'm happy to connect and discuss how I can contribute.
 
 
 
