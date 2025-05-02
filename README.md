@@ -42,6 +42,16 @@
 </div>
 
 
+<div align="left">
+  <a href="mailto:akporherhehuldah@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Contact%20Me&logo=gmail&label=Gmail&color=0D1117&logoColor=white&labelColor=D14836&style=flat" height="26" alt="gmail logo"  />
+  </a>
+  <a href="http://linkedin.com/in/huldah-akporherhe" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=LinkedIn&color=0D1117&logoColor=white&labelColor=0077B5&style=flat" height="26" alt="linkedin logo"  />
+  </a>
+  <a href="https://medium.com/@akporherhehuldah" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Follow&logo=medium&label=Medium&color=0D1117&logoColor=white&labelColor=12100E&style=flat" height="26" alt="medium logo"  />
+  </a>
 
 
 
