@@ -82,7 +82,7 @@ I have been actively involved in The Data Immersed Community, a collaborative le
 
 :email: [E-Mail](mailto:akporherhehuldah@gmail.com)
 
-[E-Mail](<a href="akporherhehuldah@gmail.com">Email Me</a>)
+[E-Mail](https://mail.google.com/mail/?view=cm&fs=1&to=akporherhehuldah@gmail.com)
 ______
 > [!IMPORTANT]  
 > **Thank you for visiting my profile,**  
