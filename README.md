@@ -83,6 +83,7 @@ View all Data Analytics projects [here](https://github.com/huldanalyst/Data-Anal
 
 ## Connect with Me :handshake:
 :link: [LinkedIn](http://linkedin.com/in/huldah-akporherhe)
+
 :email: [E-Mail](mailto:akporherhehuldah@gmail.com)
 
 
