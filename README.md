@@ -81,6 +81,8 @@ I have been actively involved in The Data Immersed Community, a collaborative le
 :link: [LinkedIn](http://linkedin.com/in/huldah-akporherhe)
 
 :email: [E-Mail](mailto:akporherhehuldah@gmail.com)
+
+[E-Mail](<a href="akporherhehuldah@gmail.com">Email Me</a>)
 ______
 > [!IMPORTANT]  
 > **Thank you for visiting my profile,**  
