@@ -1,8 +1,6 @@
 # Huldah Akporherhe
 #### Data Analyst | Microsoft Excel | MySQL | PostgreSQL
 
-###
-
 <div align="left">
   <a href="mailto:akporherhehuldah@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Contact%20Me&logo=gmail&label=Gmail&color=0D1117&logoColor=white&labelColor=D14836&style=flat" height="26" alt="gmail logo"  />
@@ -14,8 +12,6 @@
     <img src="https://img.shields.io/static/v1?message=Follow&logo=medium&label=Medium&color=0D1117&logoColor=white&labelColor=12100E&style=flat" height="26" alt="medium logo"  />
   </a>
 </div>
-
-###
 
 ## About Me
 As a dedicated Data Analyst with extensive experience in leveraging data to drive business insights, I am proficient in MS Excel and SQL, including hands-on experience with MySQL and PostgreSQL. My analytical skills enable me to interpret complex datasets and create meaningful reports that support decision-making processes. I thrive in collaborative environments, utilizing my strong problem-solving abilities to optimize data workflows and enhance data-driven strategies. I am passionate about transforming raw data into actionable insights that contribute to organizational success. 
